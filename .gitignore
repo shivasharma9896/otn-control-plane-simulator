@@ -1,0 +1,8 @@
+/bin/
+/tests/test_control
+/tests/test_checksum
+/tests/test_state
+/tests/test_log
+.DS_Store
+*.swp
+*.swo
